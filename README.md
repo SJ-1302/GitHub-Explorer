@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repo:
 
-git clone https://github.com/komallbaid/GitHub-Explorer.git
+git clone https://github.com/SJ-1302/GitHub-Explorer.git
 cd GitHub-Explorer
 
 2. Install dependencies:
@@ -54,10 +54,6 @@ This project is deployed via GitHub Pages.
 - To deploy the latest version, run:
 
 npm deploy 
-
-
-- The app is available online at:  
-  [https://komallbaid.github.io/GitHub-Explorer/](https://komallbaid.github.io/GitHub-Explorer/)
 
 ---
 
@@ -104,5 +100,5 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-If you have any questions, reach out on GitHub: [komallbaid](https://github.com/komallbaid)
+If you have any questions, reach out on GitHub: [SJ-1302](https://github.com/SJ-1302)
 
